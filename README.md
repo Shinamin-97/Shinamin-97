@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shinamin-97)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 
 📬 Contact Me
 📧 Email: qnrlgkals@naver.com
